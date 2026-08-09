@@ -1,0 +1,6 @@
+{
+  "name": "A1 Services Business Infrastructure Proposal",
+  "description": "Interactive 10-slide client proposal presentation for A1 Services Business Infrastructure Plan prepared by NOVAGENTEC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
